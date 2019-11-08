@@ -10,7 +10,6 @@
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](https://www.mfshi.com/my-github-repos)
 * [实验室作品](https://www.mfshi.com/articles/2019/11/06/1573051931545.html)
 
 
